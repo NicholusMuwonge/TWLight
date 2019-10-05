@@ -322,7 +322,7 @@ class PartnerSuggestionView(FormView):
         context = super(PartnerSuggestionView, self).get_context_data(**kwargs)
         
         all_suggestions = Suggestion.objects.all() \
-                                    .annotate(total_upvoted_users=Count(upvoted_users)) \
+                                    .annotate(total_upvoted_users=Count('upvoted_users')) \
                                     .order_by('-total_upvoted_users')
         if all_suggestions.count() > 0:
             context['all_suggestions'] = all_suggestions
