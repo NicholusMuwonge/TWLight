@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: wikipedialibrary@wikimedia.org\n"
-"POT-Creation-Date: 2019-10-03 14:19+0000\n"
+"POT-Creation-Date: 2019-10-05 05:02+0000\n"
 "PO-Revision-Date: 2019-10-01 14:52:39+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1245,7 +1245,7 @@ msgstr ""
 
 #. Translators: This message is shown to non-wikipedia editors who attempt to post data to the contact us form.
 #. Translators: This message is shown to non-wikipedia editors who attempt to post data to suggestion form.
-#: TWLight/emails/views.py:60 TWLight/resources/views.py:350
+#: TWLight/emails/views.py:60 TWLight/resources/views.py:352
 #, fuzzy
 msgid "You must be a Wikipedia editor to do that."
 msgstr "Sinun on oltava kirjautuneena sisään tehdäksesi sen."
@@ -2288,13 +2288,13 @@ msgstr ""
 "Yhteistyökumppanit, joilla on hyväksyttyjä mutta lähettämättömiä hakemuksia."
 
 #. Translators: Shown to users when they successfully add a new partner suggestion.
-#: TWLight/resources/views.py:345
+#: TWLight/resources/views.py:347
 #, fuzzy
 msgid "Your suggestion has been added."
 msgstr "Tietosi on päivitetty."
 
 #. Translators: Shown to coordinators when they successfully delete a partner suggestion
-#: TWLight/resources/views.py:365
+#: TWLight/resources/views.py:367
 #, fuzzy
 msgid "Suggestion has been deleted."
 msgstr "Tietosi on päivitetty."

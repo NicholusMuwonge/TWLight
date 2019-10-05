@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: wikipedialibrary@wikimedia.org\n"
-"POT-Creation-Date: 2019-10-03 14:20+0000\n"
+"POT-Creation-Date: 2019-10-05 05:02+0000\n"
 "PO-Revision-Date: 2019-10-01 14:52:43+0000\n"
 "Language: pt\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -1327,7 +1327,7 @@ msgstr "A sua mensagem foi enviada. Responderemos em breve!"
 
 #. Translators: This message is shown to non-wikipedia editors who attempt to post data to the contact us form.
 #. Translators: This message is shown to non-wikipedia editors who attempt to post data to suggestion form.
-#: TWLight/emails/views.py:60 TWLight/resources/views.py:350
+#: TWLight/emails/views.py:60 TWLight/resources/views.py:352
 msgid "You must be a Wikipedia editor to do that."
 msgstr "Para realizar essa operação tem de ser editor da Wikipédia."
 
@@ -2401,12 +2401,12 @@ msgid "This partner is now available for applications"
 msgstr "Este parceiro está agora disponível para receber candidaturas"
 
 #. Translators: Shown to users when they successfully add a new partner suggestion.
-#: TWLight/resources/views.py:345
+#: TWLight/resources/views.py:347
 msgid "Your suggestion has been added."
 msgstr "A sua sugestão foi acrescentada."
 
 #. Translators: Shown to coordinators when they successfully delete a partner suggestion
-#: TWLight/resources/views.py:365
+#: TWLight/resources/views.py:367
 msgid "Suggestion has been deleted."
 msgstr "A sugestão foi eliminada."
 
