@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: wikipedialibrary@wikimedia.org\n"
-"POT-Creation-Date: 2019-10-05 05:02+0000\n"
+"POT-Creation-Date: 2019-10-05 05:08+0000\n"
 "PO-Revision-Date: 2019-10-01 14:52:44+0000\n"
 "Language: pt-BR\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -1317,7 +1317,7 @@ msgstr "A sua mensagem foi enviada. Responderemos em breve!"
 
 #. Translators: This message is shown to non-wikipedia editors who attempt to post data to the contact us form.
 #. Translators: This message is shown to non-wikipedia editors who attempt to post data to suggestion form.
-#: TWLight/emails/views.py:60 TWLight/resources/views.py:352
+#: TWLight/emails/views.py:60 TWLight/resources/views.py:353
 msgid "You must be a Wikipedia editor to do that."
 msgstr "Você deve ser um editor da Wikipédia para fazer isso."
 
@@ -2346,7 +2346,7 @@ msgid "Are you sure you want to delete <b>%(object)s</b>?"
 msgstr "Tem certeza de que deseja excluir <b>%(object)s</b>?"
 
 #. Translators: Staff members can see partners on the Browse page (https://wikipedialibrary.wmflabs.org/partners/) which are hidden from other users.
-#: TWLight/resources/views.py:39
+#: TWLight/resources/views.py:40
 msgid ""
 "Because you are a staff member, this page may include Partners who are not "
 "yet available to all users."
@@ -2354,7 +2354,7 @@ msgstr ""
 "Como você é um membro da equipe, esta página pode incluir parceiros que "
 "ainda não estão disponíveis para todos os usuários."
 
-#: TWLight/resources/views.py:61
+#: TWLight/resources/views.py:62
 msgid ""
 "This partner is not available. You can see it because you are a staff "
 "member, but it is not visible to non-staff users."
@@ -2363,22 +2363,22 @@ msgstr ""
 "equipe, mas não é visível para usuários que não são funcionários."
 
 #. Translators: When an account coordinator changes a partner from being open to applications to having a 'waitlist', they are shown this message.
-#: TWLight/resources/views.py:232
+#: TWLight/resources/views.py:233
 msgid "This partner is now waitlisted"
 msgstr "Este parceiro está agora na lista de espera"
 
 #. Translators: When an account coordinator changes a partner from having a 'waitlist' to being open for applications, they are shown this message.
-#: TWLight/resources/views.py:236
+#: TWLight/resources/views.py:237
 msgid "This partner is now available for applications"
 msgstr "Este parceiro está agora disponível para candidaturas"
 
 #. Translators: Shown to users when they successfully add a new partner suggestion.
-#: TWLight/resources/views.py:347
+#: TWLight/resources/views.py:348
 msgid "Your suggestion has been added."
 msgstr "Sua sugestão foi adicionada."
 
 #. Translators: Shown to coordinators when they successfully delete a partner suggestion
-#: TWLight/resources/views.py:367
+#: TWLight/resources/views.py:368
 msgid "Suggestion has been deleted."
 msgstr "Sugestão foi eliminada."
 
